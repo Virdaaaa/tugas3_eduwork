@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+section {
+  padding-top: 60px;
+}
+
+.card {
+  border-radius: 10px;
+}
+.navbar .nav-link {
+  color: rgb(255, 255, 255);
+}
+
+body {
+  background: linear-gradient(to right, #4facfe, #00f2fe);
+}
+
+#about{
+background: linear-gradient(to right, #4facfe, #00f2fe);
+}
